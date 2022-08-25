@@ -60,8 +60,6 @@ A note on the earpads. I wear glasses and I had a battle with finding the right 
 
 *	The audio interface is a [Focusrite Scarlett 2i2](https://focusrite.com/en/usb-audio-interface/scarlett/scarlett-2i2). The one I have is an older generation. I've had it for over a decade now.
 
-![image](https://user-images.githubusercontent.com/13954434/186769353-db2421d7-7711-4541-ae81-5ee753857035.png)
-
 ## Thanks for reading!
 
 ![image](https://user-images.githubusercontent.com/13954434/186768603-fa72657e-b0b4-47bc-b38c-7edd8432cd7b.png)
