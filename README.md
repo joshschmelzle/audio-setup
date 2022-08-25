@@ -45,7 +45,7 @@ A note on the earpads. I wear glasses and I had a battle with finding the right 
 ### Microphone
 
 *	[Shure SM57](https://www.shure.com/en-US/products/microphones/sm57) with [Shure A81WS](https://www.shure.com/en-US/products/accessories/a81ws) windscreen
-* The mic is mounted on a [Shure A55M](https://www.shure.com/en-US/products/accessories/a55m) shock mount clip with a cheap, and squeaky, telescoping boom.
+* The mic is mounted on a [Shure A55M](https://www.shure.com/en-US/products/accessories/a55m) shock mount clip with a cheap, and squeaky, adjustable boom arm.
 *	Between the SM57 and audio interface is a [FetHead](https://www.tritonaudio.com/fethead) in-line microphone preamp, because my audio interface lacks the oomph.
 
 ### Audio Interface
