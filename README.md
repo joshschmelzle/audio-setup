@@ -26,6 +26,8 @@ Here is a picture from my DSLR but notice it has a different set of pads.
 
 A note on the earpads. I wear glasses and I had a battle with finding the right pads for comfort. None of the official or cheap third-party pads worked. I tried L cush, S cush, TTJV flats, and several from Amazon. None that allowed for all-day wear and comfort. 
 
+* The original gimbals broke on me one day a few years ago. So, I've replaced them with slim black ceramic aluminum gimbals from [shipibo.audio](https://www.shipibo.audio/).
+
 *	I went with custom Grado SR80e woodies cups from Riley who runs [ThereWillBeDust on Etsy](https://www.etsy.com/shop/ThereWillBeDust)
 
 ![image](https://user-images.githubusercontent.com/13954434/186757396-6263682d-41e9-4fd4-ae31-e4dc17a45577.png)
