@@ -10,7 +10,7 @@ I will preface this current build as something that has been pieced together ove
 
 ### Headphone
 
-I currently have a pair of custom Grados which I've pieced together and have been using since August of 2021. Looks like this.
+I currently have a pair of custom Grado headphones which I've pieced together over the years and have been using in this form since August of 2021. Looks like this.
 
 <img width="824" alt="image" src="https://user-images.githubusercontent.com/13954434/186758727-1a612fbe-dde3-4900-b505-c7c2b46582d2.png">
 
