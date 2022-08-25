@@ -10,7 +10,13 @@ I will preface this current build as something that has been pieced together ove
 
 ### Headphone
 
-I currently have a pair of custom Grado headphones which I've pieced together over the years and have been using in this form since August of 2021. Looks like this.
+I currently have a pair of custom Grado headphones which I've pieced together over the years and have been using in this form since August of 2021. 
+
+The original pair looked like this. I bought them circa 2015.
+
+<img width="950" alt="image" src="https://user-images.githubusercontent.com/13954434/186767365-22338db1-c701-4ae9-82c9-3c577732af9d.png">
+
+They now look like this. Almost everything is changed and none of the actual audio parts are Grado branded anymore.
 
 <img width="824" alt="image" src="https://user-images.githubusercontent.com/13954434/186758727-1a612fbe-dde3-4900-b505-c7c2b46582d2.png">
 
@@ -42,6 +48,8 @@ A note on the earpads. I wear glasses and I had a battle with finding the right 
 * I probably wouldn't buy the D1 again for a headphone amp. There are better options. One drawback is the analog tube is not included the audio chain for the headphone output.
 * I have done the opamp swap on the D1 which does affect the headphone output. I'm currently using the [Supreme Sound Opamp V5i from Burson Audio](https://www.bursonaudio.com/product/supreme-sound-opamp-v5i/).
 
+<img width="1001" alt="image" src="https://user-images.githubusercontent.com/13954434/186771309-106152f3-2551-4d0d-954a-e2afba73a15b.png">
+
 ### Microphone
 
 *	[Shure SM57](https://www.shure.com/en-US/products/microphones/sm57) with [Shure A81WS](https://www.shure.com/en-US/products/accessories/a81ws) windscreen
@@ -50,4 +58,8 @@ A note on the earpads. I wear glasses and I had a battle with finding the right 
 
 ### Audio Interface
 
-*	The audio interface is a [Focusrite Scarlett 2i2](https://focusrite.com/en/usb-audio-interface/scarlett/scarlett-2i2). The one I have is an older generation. I've had it for probably a decade now.
+*	The audio interface is a [Focusrite Scarlett 2i2](https://focusrite.com/en/usb-audio-interface/scarlett/scarlett-2i2). The one I have is an older generation. I've had it for over a decade now.
+
+![image](https://user-images.githubusercontent.com/13954434/186769353-db2421d7-7711-4541-ae81-5ee753857035.png)
+
+![image](https://user-images.githubusercontent.com/13954434/186768603-fa72657e-b0b4-47bc-b38c-7edd8432cd7b.png)
