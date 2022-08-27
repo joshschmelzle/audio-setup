@@ -2,11 +2,11 @@
 
 Here are some notes for my office audio setup (listening and meetings) for those who may be curious.
 
-## Advice to ignore
+## Advice you can just ignore
 
 Before you go out and start purchasing things. Reader, please note that folks buy audio gear for a variety of reasons including experiencing differences in audio fidelity, soundstage, space between instruments and voices, and sound balances (more bass for bassheads for example). Many variables impact the listening experience and the hardware itself is just one component. For example, how a track is mastered and the EQ of your listening environment makes a big difference. 
 
-## Current rig
+## Current build
 
 I will preface this current build as something that has been pieced together over many years. If I were to start over from scratch, I would most likely not make the same choices, but I am mostly satisfied with this setup.
 
@@ -14,31 +14,31 @@ There are some annoyances, but not ones I cannot live with. As it is in life.
 
 ### Headphone
 
-My current main is a custom Grado headphone. It's one that started out as an SR60e circa 2015 and looked like this. 
+My current build includes custom Grado headphones, but let's start at the beginning. My gateway drug is the SR60e which I purchased circa 2015 and looked like this. 
 
 <img width="950" alt="image" src="https://user-images.githubusercontent.com/13954434/186767365-22338db1-c701-4ae9-82c9-3c577732af9d.png">
 
-I've done mods on them over the years. Now they look like this.
+I made some changes and now they look something like this.
 
 <img width="824" alt="image" src="https://user-images.githubusercontent.com/13954434/186758727-1a612fbe-dde3-4900-b505-c7c2b46582d2.png">
 
-I completed this mod in August of 2021. Almost everything has changed and the cups and drivers are not Grado branded anymore.
+I completed this build in August of 2021. Almost everything has changed. The cups and drivers are no longer Grado branded anymore.
 
-Here is a fancier picture from my DSLR, but notice it has a different set of pads than the previous picture.
+Here is a fancier picture from my DSLR, but notice a different set of pads than the previous picture. I'll cover that shortly.
 
 ![image](https://user-images.githubusercontent.com/13954434/186757210-f1b659c6-4293-4ffb-925a-06a77c35af15.png)
+
+Comfort is a big deal and I have to note the earpads. First, I wear glasses. And if you do too, you likely know the pain of finding a pair of listening cans that are comfortable for long periods of time. That was me. I had a battle with finding the right pads for comfort. None of the official or cheap third-party pads worked. I tried L cush, S cush, TTJV flats, and several from Amazon. None that allowed for all-day wear and comfort. Grados are notorious for this.
+
+This is what did work for me. I use custom large pads (hybrid leather + merino) and a headband (cleverly wraps around the original) from Silvian at [Beautiful Audio](https://www.beautifulaudio.biz/grado-earpads-headbands). They were quite an investment and well worth the money. Silvian was very kind to answer many questions before I placed my order. I highly recommend and would buy from Silvian again.
 
 Ok, let's talk about the drivers. I'm using [Symphones V9](https://www.symphones.com/shop/v9).
 
 ![image](https://user-images.githubusercontent.com/13954434/186757345-09f0a9c7-b79a-4518-ad28-c94186ea264b.png)
 
-Comfort is a big deal. A note on the earpads. I wear glasses. And if you do too, you likely know the pain of finding a pair of cans that are comfortable for long periods of time. That was me. I had a battle with finding the right pads for comfort. None of the official or cheap third-party pads worked. I tried L cush, S cush, TTJV flats, and several from Amazon. None that allowed for all-day wear and comfort. 
+Another component of a Grado build is the gimbals. The holder of the cups. Well, the original gimbals on the SR60e randomly broke on me a few years ago. So, I've replaced the broken ones with black ceramic aluminum (PA6) gimbals from [shipibo.audio](https://www.shipibo.audio/).
 
-This is what did work for me. I use custom large pads (hybrid leather + merino) and headband (cleverly wraps around the original) from Silvian at [Beautiful Audio](https://www.beautifulaudio.biz/grado-earpads-headbands). They were quite an investment and well worth the money. Silvian was very kind to answer many questions before I placed my order. I highly recommend and would buy from Silvian again.
-
-Another component of a Grado build are the gimbals. The holder of the cups. Well, the original gimbals on the SR60e randomly broke on me a few years ago. So, I've replaced the broken ones with black ceramic aluminum (PA6) gimbals from [shipibo.audio](https://www.shipibo.audio/).
-
-Moving onto the cups. I went with wood. To be specific, woodies cups from Riley who runs [ThereWillBeDust on Etsy](https://www.etsy.com/shop/ThereWillBeDust). Riley was also kind to answer questions about if the Symphones V9 would fix, and yes, as you can see, they did! 
+Moving onto the cups. I went with wood. To be specific, woodies cups from Riley who runs [ThereWillBeDust on Etsy](https://www.etsy.com/shop/ThereWillBeDust). Riley was also kind to answer questions about if the Symphones V9 would fit, and yes, as you can see, they did! 
 
 ![image](https://user-images.githubusercontent.com/13954434/186757396-6263682d-41e9-4fd4-ae31-e4dc17a45577.png)
 
@@ -64,7 +64,7 @@ Can you spot where the removable opamp is in this picture? If you can find it, t
 
 ### Audio Interface
 
-*	The audio interface is a first generation [Focusrite Scarlett 2i2](https://focusrite.com/en/usb-audio-interface/scarlett/scarlett-2i2). I've had it for over a decade now.
+*	The audio interface is a first-generation [Focusrite Scarlett 2i2](https://focusrite.com/en/usb-audio-interface/scarlett/scarlett-2i2). I've had it for over a decade now.
 
 ### Sound Treatments
 
