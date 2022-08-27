@@ -34,15 +34,15 @@ Ok, let's talk about the drivers. I'm using [Symphones V9](https://www.symphones
 
 Comfort is a big deal. A note on the earpads. I wear glasses. And if you do too, you likely know the pain of finding a pair of cans that are comfortable for long periods of time. That was me. I had a battle with finding the right pads for comfort. None of the official or cheap third-party pads worked. I tried L cush, S cush, TTJV flats, and several from Amazon. None that allowed for all-day wear and comfort. 
 
-What worked for me. I'm using large pads (hybrid leather + merino) for L or G cushions replacement and headband come from Silvian at [Beautiful Audio](https://www.beautifulaudio.biz/grado-earpads-headbands). These were quite an investment but are well worth the money. Silvian was very kind to answer many questions before I placed my order. I would buy from Silvian again.
+This is what did work for me. I use custom large pads (hybrid leather + merino) and headband (cleverly wraps around the original) from Silvian at [Beautiful Audio](https://www.beautifulaudio.biz/grado-earpads-headbands). They were quite an investment and well worth the money. Silvian was very kind to answer many questions before I placed my order. I highly recommend and would buy from Silvian again.
 
-Other classic parts of a Grado build are the gimbals. The holder of the cups. Well, the original gimbals on the SR60e randomly broke on me a few years ago. So, I've replaced them with some slim black ceramic aluminum (PA6) gimbals from [shipibo.audio](https://www.shipibo.audio/).
+Another component of a Grado build are the gimbals. The holder of the cups. Well, the original gimbals on the SR60e randomly broke on me a few years ago. So, I've replaced the broken ones with black ceramic aluminum (PA6) gimbals from [shipibo.audio](https://www.shipibo.audio/).
 
-For the cups, I went with custom Grado SR80e woodies cups from Riley who runs [ThereWillBeDust on Etsy](https://www.etsy.com/shop/ThereWillBeDust)
+Moving onto the cups. I went with wood. To be specific, woodies cups from Riley who runs [ThereWillBeDust on Etsy](https://www.etsy.com/shop/ThereWillBeDust). Riley was also kind to answer questions about if the Symphones V9 would fix, and yes, as you can see, they did! 
 
 ![image](https://user-images.githubusercontent.com/13954434/186757396-6263682d-41e9-4fd4-ae31-e4dc17a45577.png)
 
-And for the actual original Grado bits. I reused the SR60e cable (which required some soldering) and the headband. The headband from Silvian cleverly wraps around the original headband and stays attached via magnets. And yes, it does help with comfort.
+And for the actual original Grado bits. I reused the SR60e cable (which required some soldering) and the headband. I may eventually replace the original SR60e cable with an upgraded version.
 
 <img width="686" alt="image" src="https://user-images.githubusercontent.com/13954434/186757628-dc2a6da8-0b1c-4ad8-91b0-faebe1a8001f.png">
 
@@ -52,17 +52,23 @@ And for the actual original Grado bits. I reused the SR60e cable (which required
 * I probably wouldn't buy the D1 again for a headphone amp. There are better options. One drawback is the analog tube is not included the audio chain for the headphone output.
 * I have done the opamp swap on the D1 which does affect the headphone output. I'm currently using the [Supreme Sound Opamp V5i from Burson Audio](https://www.bursonaudio.com/product/supreme-sound-opamp-v5i/).
 
+Can you spot where the removable opamp is in this picture? If you can find it, that's where one of the 2x V5is pictured was installed.
+
 <img width="1001" alt="image" src="https://user-images.githubusercontent.com/13954434/186771309-106152f3-2551-4d0d-954a-e2afba73a15b.png">
 
 ### Microphone
 
-*	[Shure SM57](https://www.shure.com/en-US/products/microphones/sm57) with [Shure A81WS](https://www.shure.com/en-US/products/accessories/a81ws) windscreen
-* The mic is mounted on a [Shure A55M](https://www.shure.com/en-US/products/accessories/a55m) shock mount clip with a cheap, and squeaky, adjustable boom arm.
-*	Between the SM57 and audio interface is a [FetHead](https://www.tritonaudio.com/fethead) in-line microphone preamp, because my audio interface lacks the oomph.
+*	I use a [Shure SM57](https://www.shure.com/en-US/products/microphones/sm57) with a [Shure A81WS](https://www.shure.com/en-US/products/accessories/a81ws) windscreen
+* The mic is mounted on a [Shure A55M](https://www.shure.com/en-US/products/accessories/a55m) shock mount clip on a cheap, and squeaky, adjustable boom arm.
+*	Between the SM57 and audio interface is a [FetHead](https://www.tritonaudio.com/fethead) in-line microphone preamp. If you're wondering why. It is because my old audio interface lacks the oomph.
 
 ### Audio Interface
 
-*	The audio interface is a [Focusrite Scarlett 2i2](https://focusrite.com/en/usb-audio-interface/scarlett/scarlett-2i2). The one I have is an older generation. I've had it for over a decade now.
+*	The audio interface is a first generation [Focusrite Scarlett 2i2](https://focusrite.com/en/usb-audio-interface/scarlett/scarlett-2i2). I've had it for over a decade now.
+
+### Sound Treatments
+
+I have none. Perhaps the windscreen could be considered a sound treatment.
 
 ## Thanks for reading!
 
