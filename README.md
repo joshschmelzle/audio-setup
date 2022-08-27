@@ -2,43 +2,47 @@
 
 Here are some notes for my office audio setup (listening and meetings) for those who may be curious.
 
+## Advice to ignore
+
 Before you go out and start purchasing things. Reader, please note that folks buy audio gear for a variety of reasons including experiencing differences in audio fidelity, soundstage, space between instruments and voices, and sound balances (more bass for bassheads for example). Many variables impact the listening experience and the hardware itself is just one component. For example, how a track is mastered and the EQ of your listening environment makes a big difference. 
 
-## Current Rig 
+## Current rig
 
-I will preface this current build as something that has been pieced together over many years. If I were to start over from scratch, I would most likely not make the same choices, but I am mostly satisfied with this setup. There are some annoyances, but not ones I cannot live with.
+I will preface this current build as something that has been pieced together over many years. If I were to start over from scratch, I would most likely not make the same choices, but I am mostly satisfied with this setup.
+
+There are some annoyances, but not ones I cannot live with. As it is in life. 
 
 ### Headphone
 
-I currently have a pair of custom Grado headphones which I've pieced together over the years and have been using in this form since August of 2021. 
-
-The original pair looked like this. I bought them circa 2015.
+My current main is a custom Grado headphone. It's one that started out as an SR60e circa 2015 and looked like this. 
 
 <img width="950" alt="image" src="https://user-images.githubusercontent.com/13954434/186767365-22338db1-c701-4ae9-82c9-3c577732af9d.png">
 
-They now look like this. Almost everything is changed and none of the actual audio parts are Grado branded anymore.
+I've done mods on them over the years. Now they look like this.
 
 <img width="824" alt="image" src="https://user-images.githubusercontent.com/13954434/186758727-1a612fbe-dde3-4900-b505-c7c2b46582d2.png">
 
-Here is a picture from my DSLR but notice it has a different set of pads. 
+I completed this mod in August of 2021. Almost everything has changed and the cups and drivers are not Grado branded anymore.
+
+Here is a fancier picture from my DSLR, but notice it has a different set of pads than the previous picture.
 
 ![image](https://user-images.githubusercontent.com/13954434/186757210-f1b659c6-4293-4ffb-925a-06a77c35af15.png)
 
-*	[Symphones V9](https://www.symphones.com/shop/v9) for drivers 
+Ok, let's talk about the drivers. I'm using [Symphones V9](https://www.symphones.com/shop/v9).
 
 ![image](https://user-images.githubusercontent.com/13954434/186757345-09f0a9c7-b79a-4518-ad28-c94186ea264b.png)
 
-*	Large pads (hybrid leather + merino) for L or G cushions replacement and headband come from Silvian at [Beautiful Audio](https://www.beautifulaudio.biz/grado-earpads-headbands). These were quite an investment but are well worth the money. Silvian was very kind to answer many questions before I placed my order. I would buy from Silvian again.
+Comfort is a big deal. A note on the earpads. I wear glasses. And if you do too, you likely know the pain of finding a pair of cans that are comfortable for long periods of time. That was me. I had a battle with finding the right pads for comfort. None of the official or cheap third-party pads worked. I tried L cush, S cush, TTJV flats, and several from Amazon. None that allowed for all-day wear and comfort. 
 
-A note on the earpads. I wear glasses and I had a battle with finding the right pads for comfort. None of the official or cheap third-party pads worked. I tried L cush, S cush, TTJV flats, and several from Amazon. None that allowed for all-day wear and comfort. 
+What worked for me. I'm using large pads (hybrid leather + merino) for L or G cushions replacement and headband come from Silvian at [Beautiful Audio](https://www.beautifulaudio.biz/grado-earpads-headbands). These were quite an investment but are well worth the money. Silvian was very kind to answer many questions before I placed my order. I would buy from Silvian again.
 
-* The original gimbals broke on me one day a few years ago. So, I've replaced them with slim black ceramic aluminum gimbals from [shipibo.audio](https://www.shipibo.audio/).
+Other classic parts of a Grado build are the gimbals. The holder of the cups. Well, the original gimbals on the SR60e randomly broke on me a few years ago. So, I've replaced them with some slim black ceramic aluminum (PA6) gimbals from [shipibo.audio](https://www.shipibo.audio/).
 
-*	I went with custom Grado SR80e woodies cups from Riley who runs [ThereWillBeDust on Etsy](https://www.etsy.com/shop/ThereWillBeDust)
+For the cups, I went with custom Grado SR80e woodies cups from Riley who runs [ThereWillBeDust on Etsy](https://www.etsy.com/shop/ThereWillBeDust)
 
 ![image](https://user-images.githubusercontent.com/13954434/186757396-6263682d-41e9-4fd4-ae31-e4dc17a45577.png)
 
-*	For the actual original Grado bits. I reused the SR60e cable (which required soldering) and the headband. The headband from Silvian cleverly wraps around the original headband with magnets and does help with comfort.
+And for the actual original Grado bits. I reused the SR60e cable (which required some soldering) and the headband. The headband from Silvian cleverly wraps around the original headband and stays attached via magnets. And yes, it does help with comfort.
 
 <img width="686" alt="image" src="https://user-images.githubusercontent.com/13954434/186757628-dc2a6da8-0b1c-4ad8-91b0-faebe1a8001f.png">
 
