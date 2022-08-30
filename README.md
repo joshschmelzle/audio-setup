@@ -24,11 +24,17 @@ I made some changes and now they look something like this.
 
 I completed this build in August of 2021. Almost everything has changed. The cups and drivers are no longer Grado branded anymore.
 
-Here is a fancier picture from my DSLR, but notice a different set of pads than the previous picture. I'll cover that shortly.
+Here are some  fancier pictures from my DSLR.
+
+![image](https://user-images.githubusercontent.com/13954434/187524094-b8e00c12-06ed-486e-9a08-cc337afc2abe.png)
+
+Notice a different set of pads than the first picture. I'll cover that shortly.
 
 ![image](https://user-images.githubusercontent.com/13954434/186757210-f1b659c6-4293-4ffb-925a-06a77c35af15.png)
 
-Comfort is a big deal and I have to note the earpads. First, I wear glasses. And if you do too, you likely know the pain of finding a pair of listening cans that are comfortable for long periods of time. That was me. I had a battle with finding the right pads for comfort. None of the official or cheap third-party pads worked. I tried L cush, S cush, TTJV flats, and several from Amazon. None that allowed for all-day wear and comfort. Grados are notorious for this.
+Comfort is a big deal and I have to note the earpads. First, I wear glasses. And if you do too, you likely know the pain of finding a pair of listening cans that are comfortable for long periods of time. That was me. I had a battle with finding the right pads for comfort. None of the official or cheap third-party pads worked. I tried L cush, S cush, TTJV flats, and several from Amazon. None that allowed for all-day wear and comfort. Grado is notorious for discomfort.
+
+![image](https://user-images.githubusercontent.com/13954434/187524296-1209bbeb-4f05-4695-ba26-7089df0f1219.png)
 
 This is what did work for me. I use custom large pads (hybrid leather + merino) and a headband (cleverly wraps around the original) from Silvian at [Beautiful Audio](https://www.beautifulaudio.biz/grado-earpads-headbands). They were quite an investment and well worth the money. Silvian was very kind to answer many questions before I placed my order. I highly recommend and would buy from Silvian again.
 
@@ -36,9 +42,13 @@ Ok, let's talk about the drivers. I'm using [Symphones V9](https://www.symphones
 
 ![image](https://user-images.githubusercontent.com/13954434/186757345-09f0a9c7-b79a-4518-ad28-c94186ea264b.png)
 
-Another component of a Grado build is the gimbals. The holder of the cups. Well, the original gimbals on the SR60e randomly broke on me a few years ago. So, I've replaced the broken ones with black ceramic aluminum (PA6) gimbals from [shipibo.audio](https://www.shipibo.audio/).
+Another component of a Grado build is the gimbals. The holder of the cups. Well, the original plastic gimbals on the SR60e randomly broke on me a few years ago. So, I've replaced the broken ones with black ceramic aluminum (PA6) gimbals from [shipibo.audio](https://www.shipibo.audio/).
 
-Moving onto the cups. I went with wood. To be specific, woodies cups from Riley who runs [ThereWillBeDust on Etsy](https://www.etsy.com/shop/ThereWillBeDust). Riley was also kind to answer questions about if the Symphones V9 would fit, and yes, as you can see, they did! 
+Moving onto the cups. I went with wood. To be specific, woodies cups from Riley who runs [ThereWillBeDust on Etsy](https://www.etsy.com/shop/ThereWillBeDust).
+
+![image](https://user-images.githubusercontent.com/13954434/187523705-0f65addc-ef7f-45af-8a57-591272ec2d0f.png)
+
+Riley was also kind to answer questions about if the Symphones V9 would fit, and yes, as you can see, they did! 
 
 ![image](https://user-images.githubusercontent.com/13954434/186757396-6263682d-41e9-4fd4-ae31-e4dc17a45577.png)
 
