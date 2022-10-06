@@ -62,7 +62,7 @@ And for the actual original Grado bits. I reused the SR60e cable (which required
 * I probably wouldn't buy the D1 again for a headphone amp. There are better options. One drawback is the analog tube is not included the audio chain for the headphone output.
 * I have done the opamp swap on the D1 which does affect the headphone output. I'm currently using the [Supreme Sound Opamp V5i from Burson Audio](https://www.bursonaudio.com/product/supreme-sound-opamp-v5i/).
 
-Can you spot where the removable opamp is in this picture? If you can find it, that's where one of the 2x V5is pictured was installed.
+Can you spot where the removable opamps are in this picture? If you can find it, that's where the 2x V5is on the side of the picture were installed.
 
 <img width="1001" alt="image" src="https://user-images.githubusercontent.com/13954434/186771309-106152f3-2551-4d0d-954a-e2afba73a15b.png">
 
