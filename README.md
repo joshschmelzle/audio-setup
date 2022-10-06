@@ -14,7 +14,7 @@ There are some annoyances, but not ones I cannot live with. As it is in life.
 
 ### Headphone
 
-My current build includes custom Grado headphones, but let's start at the beginning. My gateway drug is the SR60e which I purchased circa 2015 and looked like this. 
+My current build includes custom Grado headphones, but let's start at the beginning. My grado gateway drug was the SR60e which I purchased circa 2015 and looked something like this. 
 
 <img width="950" alt="image" src="https://user-images.githubusercontent.com/13954434/186767365-22338db1-c701-4ae9-82c9-3c577732af9d.png">
 
